@@ -1,0 +1,11 @@
+opencv-python==4.12.0.88
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+tqdm==4.67.1
+Pillow==11.3.0
+scikit-learn==1.6.1
+pycocotools==2.0.10
+torchmetrics==1.8.2
+torch==2.8.0
+torchvision==0.23.0
